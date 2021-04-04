@@ -14,8 +14,8 @@ Tips:这个个人主页还在修改中。
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/SFUMECJF/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/SFUMECJF/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/SFUMECJF/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/SFUMECJF/free-developer-resources)
+1. 🗣 Commented on [#1](https://github.com/Theigrams/Mathematical-optimization/issues/1) in [Theigrams/Mathematical-optimization](https://github.com/Theigrams/Mathematical-optimization)
+2. ❗️ Opened issue [#1](https://github.com/Dpxx/Klotski-15puzzles/issues/1) in [Dpxx/Klotski-15puzzles](https://github.com/Dpxx/Klotski-15puzzles)
 3. 🗣 Commented on [#7](https://github.com/SFUMECJF/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/SFUMECJF/free-developer-resources)
 4. 🎉 Merged PR [#7](https://github.com/SFUMECJF/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/SFUMECJF/free-developer-resources)
 5. 🗣 Commented on [#3](https://github.com/SFUMECJF/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/SFUMECJF/codestackr-vscode-theme)
