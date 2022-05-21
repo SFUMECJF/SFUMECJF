@@ -14,9 +14,10 @@
 <!-- [![ZhouYang Luo's github stats](https://github-readme-stats.vercel.app/api/pin?username=luozhouyang&repo=github-readme-stats&show_icons=true)](https://github.com/luozhouyang/github-readme-stats) -->
 
 
-## I'm a graduate student, Developer, and a intern Teacher!!
+## About me
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: make more money. 
-- ⚡ Fun fact: I love to read fiction and play games / basketball
+- 🌱 I am a development engineer in image processing, especially medical images. 🤣
+- 🥅 In my spare time, I teach young children programming and tutor foreign students basic cs knowledge such as rmit, unsw.
+- 👯 I love sharing what I've learned with others, so I have meetings every Saturday with strangers.
+- 🥅 2022 Goals: make more money to buy a house with enough room. 
+- ⚡ Fun fact: I love to read fiction and play games / basketball.
